@@ -1,0 +1,20 @@
+{
+  "name": "hardhat-test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hugoo/hardhat-test-repo.git"
+  },
+  "author": "Hugoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hugoo/hardhat-test-repo/issues"
+  },
+  "homepage": "https://github.com/Hugoo/hardhat-test-repo#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  }
+}
